@@ -1,0 +1,7 @@
+project structure
+- figure out how to make timer
+- make two modes for timer
+- add snooze function
+- make everything nice & well placed
+- fun break! design cute icons
+- figure out how to make window reactive
